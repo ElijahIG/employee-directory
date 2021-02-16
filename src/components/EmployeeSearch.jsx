@@ -11,7 +11,7 @@ const EmployeeSearch = () => {
   return (
     <React.Fragment>
       <header>
-        <h1>RocketSpace Employee/Contractor Roster</h1>
+        <h1>Employee Directory</h1>
       </header>
 
       <section className="filterBar">
